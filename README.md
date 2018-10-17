@@ -4,7 +4,7 @@ This is a sample project to setup a basic bot in Microsoft Bot Framework V3
 ## Local Setup
 More info see [here](https://github.com/Microsoft/BotFramework-Emulator/wiki/Getting-Started#connect-to-a-bot-running-on-localhost)
 * Install the [emulator](https://github.com/Microsoft/BotFramework-Emulator) for local dev
-* Get npm version 8.11.3
+* Get node version 8.11.3
 * run `npm install`
 * run `npm start`
 * start the bot framework emulator
